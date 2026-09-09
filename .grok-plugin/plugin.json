@@ -1,7 +1,7 @@
 {
   "name": "ordo",
   "version": "0.2.0",
-  "description": "Ordo job scheduler MCP: clusters, jobs, calendars, cron, servers.",
+  "description": "Talk to your Ordo account from Grok: see scheduled work on ordoscheduler.com, start or hold a run, and check calendars. Needs ORDO_TOKEN.",
   "author": {
     "name": "Nathaniel Graham",
     "url": "https://github.com/nathanielgraham"
