@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "ordo": {
+      "type": "http",
+      "url": "https://ordoscheduler.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${ORDO_TOKEN}"
+      },
+      "note": "Hosted Ordo MCP at https://ordoscheduler.com/mcp. Set ORDO_TOKEN. No secret is stored in this plugin."
+    }
+  }
+}
