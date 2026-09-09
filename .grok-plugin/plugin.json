@@ -1,0 +1,13 @@
+{
+  "name": "ordo",
+  "version": "0.2.0",
+  "description": "Ordo job scheduler MCP: clusters, jobs, calendars, cron, servers.",
+  "author": {
+    "name": "Nathaniel Graham",
+    "url": "https://github.com/nathanielgraham"
+  },
+  "repository": "https://github.com/nathanielgraham/ordo-grok-plugin",
+  "homepage": "https://ordoscheduler.com",
+  "license": "MIT",
+  "keywords": ["ordo", "ordo scheduler", "ordoscheduler"]
+}
